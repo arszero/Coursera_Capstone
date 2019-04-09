@@ -3,7 +3,7 @@
 * A famous fast food chain wants to open a new branch in Toronto.
 * The customer requested us to find the best area to place the new store.
 * We need to choose a place that has a small number of competitors and a larges number of potential customers.
-* We assume more offices/schools will bring more fast food customers, bacause students tend to like fast food and company employees usually take fast food for lunch. And it is better to choose a place has less fast food restaurants since there will be less competiitors.
+* We assume more offices/schools will bring more fast food customers, bacause students tend to like fast food and company employees usually take fast food for lunch. And it is better to choose a place has less fast food restaurants since there will be less competitors.
 
 #### 2. Data
 We need the following data to solve the problem:
