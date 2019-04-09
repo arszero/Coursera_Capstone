@@ -15,5 +15,5 @@ We need the following data to solve the problem:
     * the high schools in the neighbourhood
     * the universities in the neighbourhood
     * the offices in the neighbourhood
-* We will then leverage the data to determine which Neighbourhood is the best location for the new branch.
+* We will then leverage the data to determine which neighbourhood is the best location for the new branch.
 
