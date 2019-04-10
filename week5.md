@@ -58,6 +58,6 @@ We may obtain a more accurate estimation of the best location by making the foll
 * When ranking the areas, we may take more factors into consideration. For example, the population densities, rental cost and average income levels of different areas.
 
 #### 6. Conclusion
-By utilizing the venues data from Foursquare, we have found that Church and Wellesley (Postalcode M4Y) is the best area to open a new fast food restaurant based on the customer requirement. This area is close to many schools and offices which are great potential sources of customers. It is not recommended to open the new fast food restaurant in the CBD area, because a large number of fast food chains already existed in the CBD area.
+By utilizing the venues data from Foursquare, we have found that Church and Wellesley (Postalcode M4Y) is the best area to open a new fast food restaurant based on the customer requirement. This area is close to many schools and offices which are great potential sources of customers. It is not recommended to open the new fast food restaurant in the CBD area, because a large number of fast food chains already exist in the CBD area.
 
 
