@@ -3,7 +3,7 @@
 * A famous fast food chain wants to open a new branch in Toronto.
 * The customer requested us to find the best area to place the new store.
 * We need to choose a place that has small number of competitors and a high number of potential customers.
-* We assume more offices/schools will bring more fast food customers, bacause students tend to like fast food and company employees usually take fast food for lunch. And it is better to choose a place has less fast food restaurants since there will be less competitors.
+* We assume more offices/schools will bring more fast food customers, because students tend to like fast food and company employees usually take fast food for lunch. And it is better to choose a place has less fast food restaurants since there will be less competitors.
 
 #### 2. Data
 We need the following data to solve the problem:
@@ -15,7 +15,7 @@ We need the following data to solve the problem:
     * the high schools in the neighbourhood
     * the universities in the neighbourhood
     * the offices in the neighbourhood
-* We will then leverage the data to determine which Neighbourhood is the best location for the new branch.
+* We will then leverage the data to determine which neighbourhood is the best location for the new branch.
 
 #### 3. Methodology
 * First we retrieve the latitude and longitude of each Postcode of Toronto city, this has been done in the previous week.
@@ -23,8 +23,8 @@ We need the following data to solve the problem:
 * Then for each area, we compute the number of fast food restaurants, high schools, universities and offices.
 * For each of these four kinds of venues, a weight was assigned based on the top priorities defined by the customer. The weights were set to arbitrary values for this project for simplicity. We can always modify them based on real scenarios.
     * We assigned weight 1 to High Schools since high school student are potential customers.
-    * Weight 2 was assigned for Universities and offiices, since university students and employees are even better potential customers.
-    * Fast food restaurants received a negatiive weight (-2), since they are potential competitors.
+    * Weight 2 was assigned for Universities and offices, since university students and employees are even better potential customers.
+    * Fast food restaurants received a negative weight (-2), since they are potential competitors.
 * Then, the weighted sums of the number of venues was calculated for each of the 4 venue categories (high school, university, office, fast food restaurants).
 * At last, we ranked the areas based on the scores and found the best location for the new fast food branch.
 
